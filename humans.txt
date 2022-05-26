@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Pamuk Tamás tom.m.pamuk@gmail.com
 
 # THANKS
 
