@@ -17,3 +17,7 @@ Sample website with plenty of files for demos
 asgagagaggaa
 
 another change
+
+### Copyright
+
+2020 Git.Training
