@@ -17,6 +17,10 @@ Sample website with plenty of files for demos
 asgagagaggaa
 
 another change
+## How To Contribute
+
+Please fork this repository and then issue Pull Requests for review.
+
 
 ### Copyright
 
